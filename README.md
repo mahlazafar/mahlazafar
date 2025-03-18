@@ -14,12 +14,11 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=mahlazafar&theme=light&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahlazafar&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&height=400)<br/>
 
-![Hello Kitty GIF](https://media.tenor.com/y_DklcOGDqYAAAAi/hello-kitty.gif)
-
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=mahlazafar&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=footer" width="100%">
+<p align="center">
+  <img src="https://media.tenor.com/y_DklcOGDqYAAAAi/hello-kitty.gif" width="150">
+</p>
+
 
