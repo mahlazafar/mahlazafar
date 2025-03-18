@@ -14,7 +14,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=mahlazafar&theme=light&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahlazafar&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&height=400)<br/>
 
-[![Hello Kitty GIF](https://media.tenor.com/1W3MlHheMMYAAAAC/hello-kitty.gif)](https://tenor.com/view/hello-kitty-gif-14695496915991531174)
+![Hello Kitty GIF](https://media.tenor.com/y_DklcOGDqYAAAAi/hello-kitty.gif)
 
 
 
